@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/io.swift.kata.iml" filepath="$PROJECT_DIR$/io.swift.kata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mockitokata/mockitokata.iml" filepath="$PROJECT_DIR$/mockitokata/mockitokata.iml" />
+    </modules>
+  </component>
+</project>
